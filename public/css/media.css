@@ -1,0 +1,1873 @@
+@media screen and (min-width: 1920px) {
+    .menu-icon {
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .historycomp h1 {
+        font-size: 60px;
+    }
+
+    .history {
+        height: 430px;
+    }
+
+    .ourspecmain a {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1920px) {
+    header {
+        height: 130px;
+    }
+
+    .sectionshd h2 {
+        font-size: 19px;
+        white-space: nowrap;
+    }
+
+    .logo img{
+        height: 45px;
+    }
+
+    .cta button{
+        width: 180px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .nav-bar ul li a{
+        font-size: 21px;
+        white-space: nowrap;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .discription h1{
+        margin-left: 20px;
+    }
+
+    .record-cta {
+        margin-top: 50px;
+    }
+
+    .social {
+        margin-top: 40px;
+    }
+
+    .bigtooth img{
+        width: auto;
+        height: 540px;
+    }
+
+    .phonenum h3{
+        font-size: 17px;
+    }
+
+    .historycomp h1 {
+        font-size: 60px;
+    }
+
+    .history h3 {
+        font-size: 41px;
+    }
+
+    .choicewhat {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .services a{
+        width: 350px;
+        height: 250px;
+        margin: 10px;
+    }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1440px) {
+    header {
+        height: 120px;
+        width: auto;
+    }
+
+    .sectionshd h2 {
+        font-size: 18px;
+        white-space: nowrap;
+    }
+
+    .logo img{
+        height: 35px;
+    }
+
+    .cta button{
+        width: 130px;
+        height: 40px;
+        font-size: 17px;
+    }
+
+    .nav-bar ul li {
+        margin-right: 0;
+    }
+
+    .nav-bar ul li a{
+        font-size: 20px;
+        white-space: nowrap;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .social {
+        margin-top: 40px;
+    }
+
+    .bigtooth img{
+        width: auto;
+        height: 540px;
+    }
+
+    .phonenum h3{
+        font-size: 17px;
+    }
+
+    .historycomp h1 {
+        font-size: 60px;
+    }
+
+    .history h3 {
+        font-size: 37px;
+    }
+
+    .history {
+        height: 430px;
+    }
+
+    .choicewhat {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .services a{
+        width: 280px;
+        height: 195px;
+        margin: 5px;
+    }
+
+    .spec {
+        width: 290px;
+        height: 460px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .btnspec {
+        width: 80%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 17px;
+    }
+
+    .addpodrobnee a{
+        font-size: 35px;
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
+    header {
+        height: 110px;
+    }
+
+    .sectionshd h2 {
+        font-size: 16px;
+        white-space: nowrap;
+    }
+
+    .logo img{
+        height: 35px;
+    }
+
+    .cta button{
+        width: 130px;
+        height: 35px;
+        font-size: 17px;
+    }
+
+    .nav-bar ul li a{
+        font-size: 16px;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .discription {
+        grid-column: 1 / span 2;
+    }
+
+    .discription h1 {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .social {
+        margin-top: 50px;
+    }
+
+    .phonenum {
+        width: 200px;
+        top: 50%;
+        left: 100%;
+    }
+
+    .phonenum h3{
+        font-size: 15px;
+    }
+
+    .historycomp h1 {
+        font-size: 50px;
+    }
+
+    .history h3 {
+        font-size: 33px;
+    }
+
+    .history {
+        margin-top: 30px;
+        padding-top: 50px;
+        height: 440px;
+    }
+
+    .historycomp::after {
+        bottom: 15px;
+    }
+
+    .choicewhat {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .cardw {
+        width: 250px;
+        height: 240px;
+        margin: 0;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        max-width: 50px;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .services a{
+        width: 250px;
+        height: 175px;
+        margin: 5px;
+    }
+
+    .spec {
+        width: 260px;
+        height: 460px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 80%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 17px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .addpodrobnee a{
+        font-size: 25px;
+    }
+
+}
+
+@media only screen and (min-width: 880px) and (max-width: 1024px) {
+    header {
+        height: 100px;
+    }
+
+    .sectionshd h2 {
+        font-size: 15px;
+        white-space: nowrap;
+    }
+
+    .logo img{
+        height: 25px;
+    }
+
+    .cta button{
+        width: 110px;
+        height: 30px;
+        font-size: 16px;
+    }
+
+    .nav-bar ul li a{
+        font-size: 14px;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+    }
+
+    .discription {
+        grid-column: 1 / span 2;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .social {
+        margin-top: 50px;
+    }
+
+    .phonenum {
+        width: 200px;
+        top: 50%;
+        left: 100%;
+    }
+
+    .phonenum h3{
+        font-size: 15px;
+    }
+
+    .history {
+        margin-top: 30px;
+        padding-top: 30px;
+        height: 420px;
+    }
+
+    .historycomp h1 {
+        font-size: 45px;
+    }
+
+    .historycomp::after {
+        bottom: 20px;
+    }
+
+    .history {
+        margin-top: 30px;
+        padding: 50px;
+        height: 450px;
+    }
+
+    .history h3 {
+        font-size: 30px;
+    }
+
+    .choice h1 {
+        font-size: 45px;
+    }
+
+    .choice::after {
+        bottom: 20px;
+    }
+
+    .choicewhat {
+        padding-right: 0;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    .cardw {
+        width: 300px;
+        height: 180px;
+        margin: 0;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        max-width: 50px;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .uslugi h1 {
+        font-size: 45px;
+    }
+
+    .uslugi::after {
+        bottom: 20px;
+    }
+
+    .services a{
+        width: 250px;
+        height: 175px;
+        margin: 5px;
+    }
+
+    .specialists h1 {
+        font-size: 45px;
+    }
+
+    .specialists::after {
+        bottom: 20px;
+    }
+
+    .spec {
+        width: 250px;
+        height: 430px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        width: auto;
+        height: 200px;
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 80%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 17px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .address h1 {
+        font-size: 45px;
+    }
+
+    .address::after {
+        bottom: 20px;
+    }
+
+    .ouraddress {
+        margin-bottom: 150px;
+    }
+
+    .addpodrobnee a{
+        font-size: 25px;
+    }
+
+    .cardaddress {
+        flex: 0 0 calc(30% - 20px);
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 880px) {
+    header {
+        height: 110px;
+    }
+
+    .sectionshd h2 {
+        font-size: 14px;
+    }
+
+    .logo img{
+        height: 40px;
+    }
+
+    .cta button{
+        width: 150px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .nav-bar ul li a{
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 40px;
+        width: 100%;
+        background-color: #F6F6F6;
+        padding: 10px;
+    }
+
+    .menu-list.active {
+        display: flex;
+        width: 350px;
+        height: 410px;
+        border-radius: 30px;
+    }
+
+    .menu-list li {
+        margin: 5px 0;
+    }
+
+    .menu {
+        display: flex;
+        left: 50%;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .phonenum {
+        display: none;
+    }
+
+    .introduction {
+        grid-template-columns: 1fr;
+        justify-items: center;
+    }
+
+    .discription {
+        grid-column: auto; /* Отменяем явное указание столбца */
+    }
+
+    .discription h1{
+        font-size: 70px;
+    }
+
+    .record-cta {
+        margin-top: 50px;
+    }
+
+    .social {
+        margin-top: 50px;
+    }
+
+    .historycomp h1 {
+        font-size: 45px;
+    }
+
+    .historycomp::after {
+        bottom: 20px;
+    }
+
+    .history {
+        margin-top: 20px;
+        padding: 30px;
+        height: 370px;
+    }
+
+    .history h3 {
+        font-size: 27px;
+    }
+
+    .choice h1 {
+        font-size: 43px;
+    }
+
+    .choice::after {
+        bottom: 25px;
+    }
+
+    .choicewhat {
+        padding-top: 10px;
+        padding-left: 70px;
+        padding-bottom: 60px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+    }
+
+    .cardw {
+        width: 300px;
+        height: 180px;
+        margin: 0;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        max-width: 50px;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .uslugi h1 {
+        font-size: 45px;
+    }
+
+    .uslugi::after {
+        bottom: 25px;
+    }
+
+    .services {
+        padding: 0;
+    }
+
+    .services a{
+        width: 250px;
+        height: 175px;
+        margin: 5px;
+    }
+
+    .specialists h1 {
+        font-size: 45px;
+    }
+
+    .specialists::after {
+        bottom: 25px;
+    }
+
+    .ourspecmain {
+        padding-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .spec {
+        width: 240px;
+        height: 420px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        width: auto;
+        height: 180px;
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 85%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 17px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .address h1 {
+        font-size: 45px;
+    }
+
+    .address::after{
+        bottom: 25px;
+    }
+
+    .textaddress h2 {
+        font-size: 15px;
+    }
+
+    .ouraddress {
+        margin-bottom: 150px;
+    }
+
+    .addpodrobnee a{
+        font-size: 25px;
+    }
+
+    .cardaddress {
+        flex: 0 0 calc(30% - 20px);
+    }
+}
+
+@media only screen and (min-width: 620px) and (max-width: 768px) {
+    header {
+        height: 100px;
+    }
+
+    .sectionshd h2 {
+        font-size: 10px;
+    }
+
+    .logo img{
+        height: 35px;
+    }
+
+    .cta button{
+        width: 130px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .nav-bar ul li a{
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 40px;
+        width: 100%;
+        background-color: #F6F6F6;
+        padding: 10px;
+    }
+
+    .menu-list.active {
+        display: flex;
+        width: 350px;
+        height: 410px;
+        border-radius: 20px;
+    }
+
+    .menu-list li {
+        margin: 5px 0;
+    }
+
+    .menu {
+        display: flex;
+        left: 50%;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .phonenum {
+        display: none;
+    }
+
+    .introduction {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        padding-bottom: 15px;
+    }
+
+    .discription {
+        grid-column: auto; /* Отменяем явное указание столбца */
+    }
+
+    .discription h1{
+        font-size: 60px;
+    }
+
+    .record-cta {
+        margin-top: 30px;
+    }
+
+    .record-cta button {
+        width: 200px;
+        height: 55px;
+    }
+
+    .social {
+        margin-top: 40px;
+    }
+
+    .social img {
+        width: 50px;
+        height: 30px;
+    }
+
+    .historycomp h1 {
+        font-size: 37px;
+    }
+
+    .historycomp::after {
+        bottom: 35px;
+    }
+
+    .history {
+        margin-top: 10px;
+        padding: 30px;
+        height: 370px;
+    }
+
+    .history h3 {
+        font-size: 24px;
+    }
+
+    .choice h1 {
+        font-size: 34px;
+    }
+
+    .choice::after {
+        bottom: 35px;
+    }
+
+    .choicewhat {
+        padding-top: 10px;
+        padding-bottom: 60px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+    }
+
+    .cardw {
+        height: 150px;
+        margin: 0;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        max-width: 50px;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .uslugi h1 {
+        font-size: 35px;
+    }
+
+    .uslugi::after {
+        bottom: 30px;
+    }
+
+    .services {
+        margin-top: 0;
+    }
+
+    .services::after {
+        top: -130px;
+    }
+
+    .services a{
+        width: 300px;
+        height: 210px;
+        margin: 5px;
+    }
+
+    .specialists h1 {
+        font-size: 35px;
+    }
+
+    .specialists::after {
+        bottom: 30px;
+    }
+
+    .ourspecmain {
+        padding-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .spec {
+        width: 240px;
+        height: 420px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        width: auto;
+        height: 180px;
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 85%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 17px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .address h1 {
+        font-size: 35px;
+    }
+
+    .address::after{
+        bottom: 30px;
+    }
+
+    .textaddress h2 {
+        font-size: 20px;
+    }
+
+    .cardaddress {
+        flex: 0 0 calc(45% - 20px);
+    }
+
+    .addpodrobnee {
+        margin: 100px;
+    }
+
+    .addpodrobnee a{
+        font-size: 25px;
+    }
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 620px) {
+    header {
+        height: 90px;
+    }
+
+    .sectionshd {
+        margin-bottom: 0;
+    }
+
+    .sectionshd h2 {
+        font-size: 10px;
+    }
+
+    .logo img{
+        height: 25px;
+    }
+
+    .cta button{
+        width: 100px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    .nav-bar ul li a{
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 40px;
+        width: 100%;
+        background-color: #F6F6F6;
+        padding: 10px;
+    }
+
+    .menu-list.active {
+        display: flex;
+        width: 350px;
+        height: 410px;
+        border-radius: 15px;
+        top: 35px;
+    }
+
+    .menu-list li {
+        margin: 5px 0;
+    }
+
+    .menu-list li a {
+        font-size: 20px;
+    }
+
+    .menu {
+        display: flex;
+        left: 50%;
+        top: 55px;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .phonenum {
+        display: none;
+    }
+
+    .introduction {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        padding-top: 15px;
+        padding-bottom: 0;
+    }
+
+    .discription {
+        grid-column: auto;
+    }
+
+    .discription h1{
+        font-size: 46px;
+    }
+
+    .record-cta {
+        margin-top: 10px;
+    }
+
+    .record-cta button {
+        width: 150px;
+        height: 40px;
+        padding: 0;
+    }
+
+    .record-cta button a {
+        font-size: 22px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social {
+        margin-top: 20px;
+    }
+
+    .social img {
+        width: 50px;
+        height: 30px;
+        margin: 0;
+    }
+
+    .historycomp h1 {
+        font-size: 30px;
+    }
+
+    .historycomp::after {
+        bottom: 40px;
+    }
+
+    .history {
+        margin-top: 0;
+        padding: 30px;
+        padding-top: 10px;
+        height: 450px;
+    }
+
+    .history h3 {
+        font-size: 25px;
+    }
+
+    .choice h1 {
+        font-size: 25px;
+    }
+
+    .choice::after {
+        bottom: 45px;
+    }
+
+    .choicewhat {
+        padding-top: 10px;
+        padding-bottom: 60px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+    }
+
+    .cardw {
+        height: 160px;
+        margin: 0;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        max-width: 50px;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .uslugi h1 {
+        font-size: 30px;
+    }
+
+    .uslugi::after {
+        bottom: 45px;
+    }
+
+    .services {
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .services::after {
+        top: -130px;
+    }
+
+    .services a{
+        width: 250px;
+        height: 180px;
+        margin: 5px;
+    }
+
+    .specialists h1 {
+        font-size: 30px;
+    }
+
+    .specialists::after {
+        bottom: 40px;
+    }
+
+    .ourspecmain {
+        padding-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .spec {
+        width: 240px;
+        height: 420px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        width: auto;
+        height: 180px;
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 85%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 17px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .address h1 {
+        font-size: 30px;
+    }
+
+    .address::after{
+        bottom: 40px;
+    }
+
+    .textaddress h2 {
+        font-size: 20px;
+    }
+
+    .cardaddress {
+        flex: 0 0 calc(55% - 20px);
+    }
+
+    .addpodrobnee {
+        margin: 100px;
+    }
+
+    .addpodrobnee a{
+        font-size: 25px;
+    }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 480px) {
+    header {
+        height: 90px;
+    }
+
+    .sectionshd {
+        margin-bottom: 0;
+    }
+
+    .sectionshd h2 {
+        font-size: 10px;
+    }
+
+    .sectionshd::after {
+        top: 30px;
+    }
+
+    .logo img{
+        height: 24px;
+    }
+
+    .cta {
+        left: 0;
+    }
+
+    .cta button{
+        width: 100px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    nav {
+        width: 25%;
+    }
+
+    .nav-bar ul li a{
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 40px;
+        width: 100%;
+        background-color: #F6F6F6;
+        padding: 10px;
+    }
+
+    .menu-list.active {
+        display: flex;
+        width: 350px;
+        height: 410px;
+        border-radius: 15px;
+        top: 35px;
+    }
+
+    .menu-list li {
+        margin: 5px 0;
+    }
+
+    .menu-list li a {
+        font-size: 20px;
+    }
+
+    .menu {
+        display: flex;
+        left: 45%;
+        top: 55px;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .phonenum {
+        display: none;
+    }
+
+    .introduction {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        padding-top: 15px;
+        padding-bottom: 0;
+    }
+
+    .discription {
+        grid-column: auto;
+    }
+
+    .discription h1{
+        font-size: 40px;
+    }
+
+    .record-cta {
+        margin-top: 40px;
+    }
+
+    .record-cta button {
+        width: 150px;
+        height: 40px;
+        padding: 0;
+    }
+
+    .record-cta button a {
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social {
+        margin-top: 40px;
+    }
+
+    .social img {
+        width: 50px;
+        height: 30px;
+        margin: 0;
+    }
+
+    .historycomp {
+        height: 70px;
+    }
+
+    .historycomp h1 {
+        font-size: 25px;
+    }
+
+    .historycomp::after {
+        bottom: 25px;
+    }
+
+    .history {
+        margin-top: 0;
+        padding: 30px;
+        padding-top: 15px;
+        height: 510px;
+    }
+
+    .history h3 {
+        font-size: 25px;
+    }
+
+    .choice h1 {
+        font-size: 26px;
+    }
+
+    .choice::after {
+        bottom: 20px;
+    }
+
+    .choicewhat {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-bottom: 60px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+    }
+
+    .cardw {
+        width: 280px;
+        height: 200px;
+        margin: 0;
+        margin-left:10%;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        max-width: 50px;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .uslugi h1 {
+        font-size: 30px;
+    }
+
+    .uslugi::after {
+        bottom: 45px;
+    }
+
+    .services {
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .services::after {
+        top: -130px;
+    }
+
+    .services a{
+        width: 250px;
+        height: 180px;
+        margin: 5px;
+    }
+
+    .specialists h1 {
+        font-size: 25px;
+    }
+
+    .specialists::after {
+        bottom: 50px;
+    }
+
+    .ourspecmain {
+        padding-top: 0;
+        margin-bottom: 10px;
+    }
+
+    .spec {
+        width: 240px;
+        height: 460px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        width: auto;
+        height: 200px;
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 80%;
+        height: 40px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 15px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 45px;
+    }
+
+    .address {
+        height: 70px;
+    }
+
+    .address h1 {
+        font-size: 30px;
+    }
+
+    .address::after{
+        bottom: 20px;
+    }
+
+    .ouraddress {
+        margin-top: 0;
+    }
+
+    .textaddress h2 {
+        font-size: 20px;
+    }
+
+    .cardaddress {
+        flex: 0 0 calc(85% - 20px);
+    }
+
+    .addpodrobnee {
+        margin: 50px;
+    }
+
+    .addpodrobnee a{
+        font-size: 22px;
+    }
+}
+
+@media screen and (min-width: 240px) and (max-width: 360px) {
+    header {
+        height: 140px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sectionshd {
+        display: none;
+    }
+
+    .logo img{
+        height: 25px;
+    }
+
+    .cta {
+        margin-top: 40px;
+    }
+
+    .cta button{
+        width: 120px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    nav {
+        width: 25%;
+    }
+
+    .nav-bar {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-bar ul li a{
+        display: none;
+    }
+
+    .menu-list {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 40px;
+        width: 100%;
+        background-color: #F6F6F6;
+        padding: 10px;
+    }
+
+    .menu-list.active {
+        display: flex;
+        width: 350px;
+        height: 410px;
+        border-radius: 15px;
+        top: 35px;
+    }
+
+    .menu-list li {
+        margin: 5px 0;
+    }
+
+    .menu-list li a {
+        font-size: 20px;
+    }
+
+    .menu {
+        display: flex;
+        left: 25%;
+        top: 60px;
+        margin-left: 30px;
+    }
+
+    .bigtooth img{
+        display: none;
+    }
+
+    .phonenum {
+        display: none;
+    }
+
+    .introduction {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .discription {
+        grid-column: auto;
+    }
+
+    .discription h1{
+        font-size: 26px;
+    }
+
+    .record-cta {
+        margin-top: 10px;
+    }
+
+    .record-cta button {
+        width: 150px;
+        height: 40px;
+        padding: 0;
+    }
+
+    .record-cta button a {
+        font-size: 22px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social {
+        margin-top: 20px;
+    }
+
+    .social img {
+        width: 50px;
+        height: 30px;
+        margin: 0;
+    }
+
+    .historycomp {
+        height: 70px;
+    }
+
+    .historycomp h1 {
+        font-size: 25px;
+    }
+
+    .historycomp::after {
+        bottom: 5px;
+    }
+
+    .history {
+        margin-top: 0;
+        padding: 30px;
+        padding-top: 15px;
+        height: 850px;
+    }
+
+    .history h3 {
+        font-size: 21px;
+    }
+
+    .choice h1 {
+        font-size: 24px;
+    }
+
+    .choice::after {
+        bottom: 20px;
+    }
+
+    .choicewhat {
+        padding-top: 10px;
+        padding-left: 0;
+        padding-bottom: 60px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+    }
+
+    .cardw {
+        width: auto;
+        height: 220px;
+        margin: 0;
+    }
+
+    .cardw h2 {
+        font-size: 20px;
+    }
+
+    .card1w img {
+        display: none;
+    }
+
+    .card1w p {
+        font-size: 15px;
+    }
+
+    .uslugi h1 {
+        font-size: 30px;
+    }
+
+    .uslugi::after {
+        bottom: 5px;
+    }
+
+    .services {
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .services::after {
+        top: -130px;
+    }
+
+    .services a{
+        width: 170px;
+        height: 120px;
+        margin: 5px;
+    }
+
+    .specialists h1 {
+        font-size: 25px;
+    }
+
+    .specialists::after {
+        bottom: 5px;
+    }
+
+    .ourspecmain {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .spec {
+        width: 200px;
+        height: 400px;
+    }
+
+    .spec h2{
+        font-size: 20px;
+    }
+
+    .spec img{
+        width: auto;
+        height: 150px;
+        margin-top: 5px;
+    }
+
+    .btnspec {
+        width: 100%;
+        height: 35px;
+        padding: 0;
+    }
+
+    .btnspec a {
+        margin: 0;
+        font-size: 15px;
+    }
+
+    .morebtn {
+        width: 200px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .address {
+        height: 70px;
+    }
+
+    .address h1 {
+        font-size: 30px;
+    }
+
+    .address::after{
+        bottom: 20px;
+    }
+
+    .ouraddress {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .textaddress h2 {
+        font-size: 20px;
+    }
+
+    .cardaddress {
+        flex: 0 0 calc(110% - 20px);
+    }
+
+    .addpodrobnee {
+        margin: 50px;
+    }
+
+    .addpodrobnee a{
+        font-size: 22px;
+    }
+}
+
+
+
+/*все кеймфрэймесы*/
+
+
+
+
+/*анимация футера*/
+
+@keyframes animateWaves {
+    0% {
+      background-position-x: 1000px;
+    }
+    100% {
+      background-positon-x: 0px;
+    }
+}
+
+@keyframes animate {
+    0% {
+      background-position-x: -1000px;
+    }
+    100% {
+      background-positon-x: 0px;
+    }
+}
+
+
+
+/*анимация тени в "о нас" */
+
+@keyframes shadowAnimation {
+    0% {
+        box-shadow: 0 0 30px rgba(0, 255, 255, 0.6);
+    }
+    50% {
+        box-shadow: 0 0 40px rgba(54, 187, 245, 0.4);
+    }
+    100% {
+        box-shadow: 0 0 50px rgba(0, 255, 179, 0.2);
+    }
+}
+
+
+/* для оформления  */
+
+
+@media (max-width: 600px) {
+    .half-width {
+      width: 100%;
+    }
+  }
+
+
+
+  /*анимация тени в всплывающем окне в record */
+
+@keyframes shadowAnim {
+    0% {
+        box-shadow: 0 0 30px rgba(0, 255, 170, 0.4);
+    }
+    50% {
+        box-shadow: 0 0 40px rgba(0, 255, 247, 0.4);
+    }
+    100% {
+        box-shadow: 0 0 50px rgba(0, 157, 255, 0.4);
+    }
+}
+
+
+/* анимация для текста на стр implantation*/
+
+@keyframes blink {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
+
+@keyframes gradientShift {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
